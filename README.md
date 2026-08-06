@@ -196,3 +196,7 @@ The current implementation demonstrates the feasibility of AI-driven payroll pre
 ## 👨‍💻 Team
 
 Developed as part of the E-Cell Startup Induction Project.
+
+## PPT Presented :
+
+https://www.canva.com/design/DAHRIYPztTQ/1ECM4WrH6F02OxHD0rH_ow/edit
