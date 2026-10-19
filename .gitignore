@@ -1,0 +1,17 @@
+# Environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+credentials.json
+token.json
+.env
+
+# Generated files
+generated_payslips/
+
+# IDE
+.vscode/
+.idea/
