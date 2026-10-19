@@ -1,0 +1,11 @@
+Employee ID,Name,Email,Department,Designation,Basic Salary,OT Rate (per hr),Leave Balance,Bonus Eligible,Joining Date
+EMP001,Ayan Pagare,ayanpagare7@gmail.com,Production,Operator,25000,200,12,Yes,2025-03-12
+EMP002,Priya Patel,priya@example.com,HR,HR Executive,30000,250,12,Yes,2024-11-01
+EMP003,Aman Verma,aman@example.com,Sales,Sales Executive,28000,220,10,No,2025-01-15
+EMP004,Neha Singh,neha@example.com,Accounts,Accountant,35000,300,15,Yes,2023-07-20
+EMP005,Arjun Kumar,arjun@example.com,Production,Supervisor,40000,350,15,Yes,2022-09-10
+EMP006,Sneha Iyer,sneha@example.com,Operations,Coordinator,32000,250,12,Yes,2025-02-05
+EMP007,Vikram Rao,vikram@example.com,Warehouse,Store Keeper,27000,180,10,No,2024-06-18
+EMP008,Meera Joshi,meera@example.com,Admin,Admin Executive,29000,220,12,Yes,2023-12-08
+EMP009,Karan Mehta,karan@example.com,Sales,Sales Manager,50000,400,15,Yes,2021-10-25
+EMP010,Ananya Das,ananya@example.com,Marketing,Marketing Executive,33000,250,12,Yes,2024-04-30
